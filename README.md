@@ -1,4 +1,4 @@
 # GITHUB-DEMO
-this is my first github demo
+Learning about github by this repository
 <br>
 Author - Sabuj Ghorai(student at Brainware University)
